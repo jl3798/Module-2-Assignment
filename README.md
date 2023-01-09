@@ -1,3 +1,4 @@
+```
 Sub stock_analysis()
     'Set dimensions
     Dim total As Double
@@ -116,3 +117,4 @@ Sub stock_analysis()
         
     
 End Sub
+```
